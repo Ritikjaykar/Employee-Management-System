@@ -1,8 +1,15 @@
-# React + Vite
+# 🏢 Employee Management System (EMS)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![React](https://img.shields.io/badge/React-18.2-blue)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-5.2-orange)](https://vitejs.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-skyblue)](https://tailwindcss.com/)
 
-Currently, two official plugins are available:
+A modern web application for managing employee tasks, roles, and workflows.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
+- Role-based access control (Admin/Employee)
+- Task creation & assignment system
+- Real-time task status updates (New → Active → Completed/Failed)
+- Employee performance metrics
+- Responsive UI with dark mode
+- Local storage persistence
